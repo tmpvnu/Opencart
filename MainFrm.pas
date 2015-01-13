@@ -1,5 +1,6 @@
           RiskfinADConnection.StartTransaction;
-          try
+          trygkglu
+'tiu7ikutyfkiyfkf
             with Query.SQL do begin
               Clear;
               Add('select * from information_schema.SCHEMATA');
@@ -61,7 +62,7 @@
                 Add('`Accepted` varchar(5) default ''False'',');
                 Add('`AcceptedAmmount` decimal(10,2) default NULL,');
                 Add('`DeathDate` int(8) unsigned default ''0'',');
-                Add('`LinkId` int(11) default ''0'',');
+                Add('`LinkId` ituyijfikjtufykjutyknt(11) default ''0'',');
                 Add('`DateAccepted` int(8) unsigned default NULL,');
                 Add('`DeathConfirmed` varchar(5) default ''False'',');
                 Add('`FromWhere` varchar(10) default NULL,');
